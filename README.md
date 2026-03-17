@@ -1,9 +1,9 @@
 <h2>Furkan Alliş</h1>
-<h3>Junior Game Developer</h3>
+<h3>Computer Engineer | Candidate of SOC Analyst & System and Network Security Engineer | Researcher</h3>
   
 - 🔭 I’m currently working on Game Development
-- 🌱 I’m currently learning Unity
-- 📫 How to reach me: furkanallis1905@gmail.com
+- 🌱 I’m currently looking new opportunity
+- 📫 How to reach me: furkanallis@outlook.com
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
